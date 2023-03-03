@@ -1,0 +1,15 @@
+D:\אלגוריטמיקה_2022\PracticHome007\PracticHome007\bin\Debug\net6.0\PracticHome007.exe
+D:\אלגוריטמיקה_2022\PracticHome007\PracticHome007\bin\Debug\net6.0\PracticHome007.deps.json
+D:\אלגוריטמיקה_2022\PracticHome007\PracticHome007\bin\Debug\net6.0\PracticHome007.runtimeconfig.json
+D:\אלגוריטמיקה_2022\PracticHome007\PracticHome007\bin\Debug\net6.0\PracticHome007.dll
+D:\אלגוריטמיקה_2022\PracticHome007\PracticHome007\bin\Debug\net6.0\PracticHome007.pdb
+D:\אלגוריטמיקה_2022\PracticHome007\PracticHome007\obj\Debug\net6.0\PracticHome007.csproj.AssemblyReference.cache
+D:\אלגוריטמיקה_2022\PracticHome007\PracticHome007\obj\Debug\net6.0\PracticHome007.GeneratedMSBuildEditorConfig.editorconfig
+D:\אלגוריטמיקה_2022\PracticHome007\PracticHome007\obj\Debug\net6.0\PracticHome007.AssemblyInfoInputs.cache
+D:\אלגוריטמיקה_2022\PracticHome007\PracticHome007\obj\Debug\net6.0\PracticHome007.AssemblyInfo.cs
+D:\אלגוריטמיקה_2022\PracticHome007\PracticHome007\obj\Debug\net6.0\PracticHome007.csproj.CoreCompileInputs.cache
+D:\אלגוריטמיקה_2022\PracticHome007\PracticHome007\obj\Debug\net6.0\PracticHome007.dll
+D:\אלגוריטמיקה_2022\PracticHome007\PracticHome007\obj\Debug\net6.0\refint\PracticHome007.dll
+D:\אלגוריטמיקה_2022\PracticHome007\PracticHome007\obj\Debug\net6.0\PracticHome007.pdb
+D:\אלגוריטמיקה_2022\PracticHome007\PracticHome007\obj\Debug\net6.0\PracticHome007.genruntimeconfig.cache
+D:\אלגוריטמיקה_2022\PracticHome007\PracticHome007\obj\Debug\net6.0\ref\PracticHome007.dll

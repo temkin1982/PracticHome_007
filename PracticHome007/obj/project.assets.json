@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\אלגוריטמיקה_2022\\Practic_Home_007\\Practic_Home_007\\Practic_Home_007.csproj",
-      "projectName": "Practic_Home_007",
-      "projectPath": "D:\\אלגוריטמיקה_2022\\Practic_Home_007\\Practic_Home_007\\Practic_Home_007.csproj",
+      "projectUniqueName": "D:\\אלגוריטמיקה_2022\\PracticHome007\\PracticHome007\\PracticHome007.csproj",
+      "projectName": "PracticHome007",
+      "projectPath": "D:\\אלגוריטמיקה_2022\\PracticHome007\\PracticHome007\\PracticHome007.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\אלגוריטמיקה_2022\\Practic_Home_007\\Practic_Home_007\\obj\\",
+      "outputPath": "D:\\אלגוריטמיקה_2022\\PracticHome007\\PracticHome007\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
