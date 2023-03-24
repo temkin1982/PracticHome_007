@@ -5,18 +5,23 @@
         public int numberAccountMasterCard = 12345;
         public int balanceMasterCard = 2500;
 
-        public void DepositMasterCard()
+        public int DepositMasterCard()
         {
-            //Console.WriteLine($"Your balance at the moment is on: {balanceMasterCard}");
-            //Console.WriteLine("\nAmount you want for deposit: ");
+            Console.WriteLine($"Your balance at the moment is on MasterCard: {balanceMasterCard}$");
+            Console.WriteLine("\nAmount you want for deposit MasterCard: ");
             int sumPlus = int.Parse(Console.ReadLine());
             balanceMasterCard -= sumPlus;
-            return;
-            //Console.WriteLine($"Your balance after deposit money: {balanceMasterCard}");
+            return balanceMasterCard;
+           
         }
         public void CreditInfoCardMasterCard()
         {
-            Console.WriteLine($"Your balnace for credit card MasterCard is: {balanceMasterCard}");
+            Console.WriteLine($"Your balnace for credit card MasterCard is: {balanceMasterCard}$");
+        }
+        public void Test()
+        {
+            
+            Console.WriteLine($"\nAfter withdraw from MasterCard balance is: {balanceMasterCard}$");
         }
     }
     

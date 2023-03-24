@@ -2,7 +2,7 @@
 {
     public class Plan 
     {
-        public int Code { get; set; }   
+        public int Code { get; set; }  //ato sosdana dla tavo shtob bil Plan Patcientu vet sam potcient ne mojet sebe sosdat plan! 
 
         public Plan(int code)
         {
@@ -10,18 +10,19 @@
         }
     }
 
-    public class Patient 
+    public class Patient     
     {
-        public Plan Plan { get; set; }  
+        public Plan Plan { get; set; }  //sdes potcient mojet imet kakoito plan toist plan lichenie ato svoistva
 
-        public Patient(int code)
+        public Patient(int code)     // ato konstruktar vnutri classa potcienta   
         {
-            Plan = new Plan(code);
+            Plan = new Plan(code); // ato dla vivoda svoistva plan na konsul uje v programme naznachenie coda
         }
 
-        public void SelelctDoctor()
-        {
-            int code = Plan.Code;
+        public void SelelctDoctor() // ato dla tvao shtob posle opridelenie coda idot obrachenie k vrachu
+                                    // i tam propisina metod kak lichit on opridelon v drugom classe Classe dlya vrachei
+        {                           
+            int code = Plan.Code;  
 
             switch (code)
             {

@@ -22,17 +22,45 @@ namespace PracticHome007
             Console.WriteLine("------------------------------------------------------------------");
             //Class 2 q2 "Doctor"
 
-            Patient patient = new Patient(2);
+            Patient patient = new Patient(1);
             patient.SelelctDoctor();
-
+            int code = patient.Plan.Code;
+            Console.WriteLine(patient.Plan.Code);
             Console.WriteLine("___________________________________________________________________");
+            
             //Class 2 q3 "CreditCard"
 
             CreditCard creditCard = new CreditCard();
             creditCard.Deposit();
+            
             creditCard.withdraw();
             creditCard.CreditCardInfo();
-            creditCard.Test();
+            Console.WriteLine("---------------------------------------------------");
+            
+            Visa visa = new Visa();
+            AmericanCard americanCard = new AmericanCard(); 
+            MasterCard masterCard = new MasterCard();
+
+            visa.DepositVisa();
+            visa.CreditInfoCardVisa();
+            Console.WriteLine("__________");
+
+            americanCard.DepositAmericanCard();
+            americanCard.CreditInfoCardAmericanCard();
+            Console.WriteLine("________________________________________________");
+
+         
+            Console.WriteLine("___________________________________________________");
+
+
+            masterCard.DepositMasterCard();
+            Console.WriteLine("__________________________________________________");
+
+            visa.Test();
+            americanCard.Test();
+            masterCard.Test();
+
+            
 
 
 
